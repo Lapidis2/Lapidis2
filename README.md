@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **ALX Software engineering**
 
-- 👨💻 All of my projects are available at [www.github.com/Lapidis2](www.github.com/Lapidis2)
+- 👨💻 All of my projects are available at [www.netlify.com/Lapidis2](https://jeanpierreportfolio.netlify.app/)
+
 
 - 💬 Ask me about **android**
 
