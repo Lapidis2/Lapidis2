@@ -1,16 +1,16 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uoa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Lapidis2.io)
 <h1 align="center">Hi 👋, I'm Lapidis(J pierre)</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate Full-Stack developer from Rwanda</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJEBG_DjVSUW78gP3BWQwSFcreGkh3beM5Q&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lapidis2&label=Profile%20views&color=0e75b6&style=flat" alt="lapidis2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hitayezu j pierre" target="blank"><img src="https://img.shields.io/twitter/follow/hitayezu j pierre?logo=twitter&style=for-the-badge" alt="hitayezu j pierre" /></a> </p>
 
-- 🌱 I’m currently learning **ALX Software engineering**
-
+- 🌱 I worked at Andela during training **Andela Technical leadership Program**
+- 🌱 I’m currently learning **ALX ProDev program**
 - 👨💻 All of my projects are available at [www.github.com/Lapidis2](www.github.com/Lapidis2)
-- 👨💻 Visit my site here ([https://jeanpierreportfolio.netlify.app/](https://jeanpierre-portfolio.netlify.app/))
+- 👨💻 Visit my site here ([https://jeanpierre-portfolio.netlify.app/](https://jeanpierre-portfolio.netlify.app/))
 
 
 - 💬 Ask me about **android**
