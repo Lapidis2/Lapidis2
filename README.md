@@ -3,7 +3,10 @@
 <h3 align="center">A passionate Full-Stack developer from Rwanda</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDJEBG_DjVSUW78gP3BWQwSFcreGkh3beM5Q&usqp=CAU"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lapidis2&label=Profile%20views&color=0e75b6&style=flat" alt="lapidis2" /> </p>
+<p align="left">
+  <img src="./goal.jpg" alt="Jean Pierre Profile View" width="200"/>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/hitayezu j pierre" target="blank"><img src="https://img.shields.io/twitter/follow/hitayezu j pierre?logo=twitter&style=for-the-badge" alt="hitayezu j pierre" /></a> </p>
 
