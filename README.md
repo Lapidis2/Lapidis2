@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **ALX Software engineering**
 
 - 👨💻 All of my projects are available at [www.github.com/Lapidis2](www.github.com/Lapidis2)
-- 👨💻 Visit my site here (https://jeanpierreportfolio.netlify.app/)
+- 👨💻 Visit my site here ([https://jeanpierreportfolio.netlify.app/](https://jeanpierre-portfolio.netlify.app/))
 
 
 - 💬 Ask me about **android**
