@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/hitayezu j pierre" target="blank"><img src="https://img.shields.io/twitter/follow/hitayezu j pierre?logo=twitter&style=for-the-badge" alt="hitayezu j pierre" /></a> </p>
 
 - 🌱 I worked at Andela during training **Andela Technical leadership Program**
-- 🌱 I’m currently learning **ALX ProDev program**
+- 🌱 I'am graduated from **ALX ProDev program**
 - 👨💻 All of my projects are available at [www.github.com/Lapidis2](www.github.com/Lapidis2)
 - 👨💻 Visit my site here ([https://jeanpierre-portfolio.netlify.app/](https://jeanpierre-portfolio.netlify.app/))
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hitayezu j pierre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitayezu j pierre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hitayezu j pierre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitayezu j pierre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeanpierre2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitayezu j pierre" height="30" width="40" /></a>
 <a href="https://fb.com/hitayezu lapidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitayezu lapidis" height="30" width="40" /></a>
 </p>
 
