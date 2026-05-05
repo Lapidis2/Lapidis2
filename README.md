@@ -18,7 +18,7 @@
 const jeanPierre = {
   role: "Full-Stack Developer",
   specialization: "Backend Systems & API Development",
-  location: "Open to Remote Opportunities",
+  location: "Open to Remote and Hybrid Opportunities",
   currentFocus: [
     "Scalable API Design",
     "Search & Filtering Systems",
@@ -59,11 +59,11 @@ My work centers on solving complex problems like **search accuracy, filtering, a
 
 ## Featured Project
 
-### 🏡 Airbnb-like Listings API | TypeScript • Node.js • Prisma • PostgreSQL
+### Airbnb-like Listings API | TypeScript • Node.js • Prisma • PostgreSQL
 
 A **scalable backend system** inspired by Airbnb, designed to handle real-world search complexity.
 
-#### 🔑 Key Features
+####  Key Features
 
 * Advanced search with **multi-filter support** (location, price, guests, amenities)
 * Smart validation → avoids misleading empty results
@@ -71,7 +71,7 @@ A **scalable backend system** inspired by Airbnb, designed to handle real-world 
 * JWT authentication & password reset system
 * Relational database (users, listings, bookings, photos)
 
-#### 🧠 Key Contribution
+####  Key Contribution
 
 Designed a **search system that returns meaningful errors instead of empty success responses**, improving API reliability and user experience.
 
@@ -91,7 +91,7 @@ Designed a **search system that returns meaningful errors instead of empty succe
 
 I'm open to **backend or full-stack roles** where I can contribute to building scalable systems.
 
-**Let’s build something impactful 🚀**
+**Let’s build something impactful**
 
 <div align="center">
 
